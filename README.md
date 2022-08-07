@@ -1,0 +1,2 @@
+# Sentiment-analysis-and-recommendation-of-Rottentomato
+We crawl the Rotten Tomatoes Movie Network to download user reviews of movies. After that, perform a sentiment analysis on their reviews. For example, love for action movies and negative for romance movies. Next, different types of movies are recommended to different users according to the recommendation algorithm. Finally, a Web site was made to display recommended movies.
