@@ -2,8 +2,6 @@
 
 ## Summary
 
-Hi, my name is Zixiang Wang. I'm in charge of the **recommendation system**.
-
 Based on the previous steps, we have informations about movies and sentiments analysis result for users reviews.
 
 Using reviews from the same user, we can give a User Image based on the movies he see with positive attitude. *For example, User Image will shows what gerone he likes.*
@@ -13,7 +11,7 @@ After that, we can traverse all movies we have, and compare different aspect to 
 ## Folder
 
 ```plain
-zwang_recommendation
+Recommendation
 ├ README.md
 ├ recommend.py
 ├ user_analysis.py
