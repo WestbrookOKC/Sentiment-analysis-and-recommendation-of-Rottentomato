@@ -1,0 +1,25 @@
+blog  项目主文档
+	
+	models.py  模型文件， 去写数据表中的模型
+	settings.py  设置文件， 连接数据库、加载资源等...
+	urls.py       路由文件， 在这里定义页面访问的路由API
+	views.py     功能文件， 执行相应的功能。
+
+static  静态资源
+
+templates 页面包
+
+
+1、 创建数据库 
+         数据库名称为  moielist
+         将压缩包中的blog_movie.sql 文件中的数据库表执行一下
+
+
+2、 打开save_mysql 文件， 运行文件
+      （当前文件是往数据库中插入数据的）
+
+如何运行项目 ： 
+ 	打开pycharm  点击  Terminal 
+	cd 到blog包下  
+ 	输入 python manage.py runserver
+	就可以运行项目
